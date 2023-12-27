@@ -1,0 +1,9 @@
+Brevo:-
+Also known as sendinblue(former name) Brevo is an online platform which provides the user with an SMTP serer and a port number.
+The server and port number helps to send any email with a different username which looks authentic.
+The body of the email can contain a message which tends the receiver to open an real looking link which is fake and can cause harm to the person in some way.
+
+Sendemail:-
+It is an inbuilt tool in Kali Linux OS which takes user email,username to be used,and the body of email containing the link.
+It contains the receiver's email address where the mail is to be sent.
+When the fake link gets clicked,it takes the receiver to a fake website or can install any kind of malware on the system causing harm.
